@@ -1,6 +1,6 @@
-token=NDk5OTQ3MjY4NDg5NjA5MjI3.DqDruA.W72QYjc_lEEzGn__LE6lrjl7zYQ
+token=NDk5OTUwODg3NjkxNjE2Mjc2.DqDvFQ.qZ_DDqPFdCC0XthMXHzaVGJeelo
 owner=202745501345382400 
-prefix=1
-game=1play
+prefix=3
+game=3play
 stayinchannel=true
 songinstatus=false
